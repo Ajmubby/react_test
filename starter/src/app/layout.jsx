@@ -8,10 +8,10 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "React Fundamentals",
   description: "Learn to create a react app  using a Next framework",
-  keyword: "HTML,CSS, JS, REACT GIT"
+  keyword: "HTML,CSS, JS, REACT, GIT"
 };
 
-export default function RootLayout({ children }) {
+export default function RootLayout({children}) {
   return (
     <html lang="en">
       <body className={inter.className}>
