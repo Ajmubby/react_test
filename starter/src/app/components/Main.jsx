@@ -13,7 +13,7 @@ export default function Main() {
 
         <div className="text-3xl bg-slate-950 text-white flex flex-col justify-center items-center">
         <h2>Home page {greetMe}</h2>
-        <h1>Fundametals of React</h1>
+        <h1>Fundametals of Reactjs</h1>
         </div>
 
         <div>
