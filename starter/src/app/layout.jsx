@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "React Fundamentals",
-  description: "Learn to create a react app  using a Next framework",
+  description: "Learn to create a react app using a Next framework",
   keyword: "HTML,CSS, JS, REACT, GIT"
 };
 
@@ -23,7 +23,7 @@ export default function RootLayout({children}) {
 
         <Footer />  
 
-        </body>
+      </body>
     </html>
   );
 }
